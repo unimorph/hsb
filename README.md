@@ -20,4 +20,22 @@ Taras Andrushko, Igor Marchenko
     publisher = "Association for Computational Linguistics",
     url = "https://aclanthology.org/2020.wmt-1.80",
     pages = "765--771"
+    
+@article{DBLP:journals/corr/abs-2010-13192,
+  author    = {Alexandra Chronopoulou and
+               Dario Stojanovski and
+               Viktor Hangya and
+               Alexander M. Fraser},
+  title     = {The {LMU} Munich System for the {WMT} 2020 Unsupervised Machine Translation
+               Shared Task},
+  journal   = {CoRR},
+  volume    = {abs/2010.13192},
+  year      = {2020},
+  url       = {https://arxiv.org/abs/2010.13192},
+  eprinttype = {arXiv},
+  eprint    = {2010.13192},
+  timestamp = {Mon, 09 Nov 2020 17:39:25 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2010-13192.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
 ```
